@@ -1,0 +1,3 @@
+xcopy "c:\Users\zorin.a\Documents\Unity Projects\ulc_spin_the_disks_android\ULC\assets\" "c:\Users\zorin.a\AndroidStudioProjects\ulc2\app\src\main\assets\" /S /Y /E
+xcopy "c:\Users\zorin.a\Documents\Unity Projects\ulc_spin_the_disks_android\ULC\libs\unity-classes.jar" "c:\Users\zorin.a\AndroidStudioProjects\ulc2\app\libs\unity-classes.jar" /Y
+xcopy "c:\Users\zorin.a\Documents\Unity Projects\ulc_spin_the_disks_android\ULC\libs\armeabi-v7a\" "c:\Users\zorin.a\AndroidStudioProjects\ulc2\app\src\main\jniLibs\armeabi-v7a\" /S /Y /E
